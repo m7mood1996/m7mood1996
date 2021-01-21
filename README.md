@@ -42,3 +42,5 @@ I am a C/C++ and python Developer who is exploring thies languges in deep. while
 Let's connect 👨‍💻 and forge the future together.😁
 
 [linkedin]: https://www.linkedin.com/in/mahmood-qawasmi
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m7mood1996)](https://github.com/anuraghazra/github-readme-stats)
