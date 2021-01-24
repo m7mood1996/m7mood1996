@@ -7,7 +7,6 @@ I am a C/C++ and python Developer who is exploring thies languges in deep. while
 
 [![](https://raw.githubusercontent.com/m7mood1996/m7mood1996/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/m7mood1996/m7mood1996/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./profile-summary-card-output/github/3-stats.svg)](https://github.com/m7mood1996/github-profile-summary-cards)
 
 
  ---
