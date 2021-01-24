@@ -1,6 +1,6 @@
 Hey Mahmood here 👋
 
-I am a C/C++ and python Developer who is exploring thies languges in deep. while looking for my first job in the field.
+I am a C/C++ and python Developer who is exploring these languges in deep. while looking for my first job in the field.
 
 
 [![](https://raw.githubusercontent.com/m7mood1996/m7mood1996/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
