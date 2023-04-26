@@ -42,3 +42,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/m7mood1996/m7mood1996/master/profile-summary-card-output/vision_friendly_dark/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/m7mood1996/m7mood1996/master/profile-summary-card-output/vision_friendly_dark/4-productive-time.svg)
+```
+
+    
