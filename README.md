@@ -42,4 +42,4 @@ I am a C/C++ and python Developer who is exploring these languges in deep. while
 Let's connect 👨‍💻 and forge the future together.😁
 
 [linkedin]: https://www.linkedin.com/in/mahmood-qawasmi
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=m7mood1996)
+
