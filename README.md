@@ -17,7 +17,6 @@ I am a C/C++ and python Developer who is exploring these languges in deep. while
  💬 Ask me about C/C++ and python Development, and any Tech-related stuff.
 
 
-![Profile views](https://gpvc.arturio.dev/m7mood1996)  <img src="https://img.shields.io/github/followers/m7mood1996?label=Follow" style=" float:left, margin-right:10px" />
 
 
 ---
