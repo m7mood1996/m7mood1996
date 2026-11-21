@@ -1,44 +1,43 @@
-Hey Mahmood here 👋
+<h1 align="center">Hi, I'm Mahmood 👋</h1>
+<p align="center">
+  <b>DevOps / Platform Engineer @ JPMorgan Chase</b>  · Jerusalem
+</p>
 
-I am a C/C++ and python Developer who is exploring these languges in deep. while looking for my first job in the field.
-
-
-[![](https://raw.githubusercontent.com/m7mood1996/m7mood1996/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://raw.githubusercontent.com/m7mood1996/m7mood1996/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/m7mood1996/m7mood1996/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
- ---
-  
- :books: I want to learn Game development and to be axpert in C/C++.
- 
-  
- 💬 Ask me about C/C++ and python Development, and any Tech-related stuff.
-
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahmood-qawasmi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
+### About me
+- 🏦 **Software Engineer, DevOps** at **JPMorgan Chase** (Commercial & Investment Bank) since 2022
+- 💼 Previously **Personetics** (2021–2022)
+- 🎓 B.Sc. Software Engineering, Azrieli College of Engineering
+- 🤖 Currently building AI agents that help with on-call and incident triage on Kubernetes
+- ☁️ Interested in cloud infrastructure, virtualization and platform security
 
-### Languages, Tech & Tools Preference
+### Featured project
+**[On-Call Copilot](https://github.com/m7mood1996/agent-lab)**: an LLM incident-triage agent for Kubernetes
+- RAG over runbooks (ChromaDB + `nomic-embed-text`), local models with Ollama
+- FastAPI service with a Redis proposal store
+- Scoped RBAC ServiceAccount and a **two-phase human-approval gate** before any remediation runs
 
-<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">  <img src="https://img.shields.io/badge/-Python-blackstyle=flat&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">  <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">  <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">  <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">  <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+### Tech I work with
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-
+### GitHub stats
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=m7mood1996&show_icons=true&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7mood1996&layout=compact&hide_border=true" />
+</p>
 
 ---
-
-
-### You can find in me in the web 🌍
-[<img align="left" alt="m7mood1996 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br/>
-
----
-
-Let's connect 👨‍💻 and forge the future together.😁
-
-[linkedin]: https://www.linkedin.com/in/mahmood-qawasmi
-
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mahmood-qawasmi), or open an issue on any repo.
